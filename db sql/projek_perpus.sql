@@ -140,8 +140,8 @@ CREATE TABLE `tbl_login` (
 --
 
 INSERT INTO `tbl_login` (`id_login`, `anggota_id`, `user`, `pass`, `level`, `nama`, `tempat_lahir`, `tgl_lahir`, `jenkel`, `alamat`, `telepon`, `email`, `tgl_bergabung`, `foto`) VALUES
-(1, 'AG001', 'rianto', '202cb962ac59075b964b07152d234b70', 'Petugas', 'Rianto', 'Solo', '2000-05-10', 'Laki-Laki', 'Yogyakarta', '081234567890', 'rianto@gmail.com', '2019-11-20', 'user_1630303496.png'),
-(2, 'AG002', 'violita', '202cb962ac59075b964b07152d234b70', 'Anggota', 'Violita', 'Pati', '2002-06-22', 'Perempuan', 'Pati', '082123456789', 'silvaniviolita@gmail.com', '2021-08-30', 'user_1630303816.png');
+(1, 'AG001', 'anang', '202cb962ac59075b964b07152d234b70', 'Petugas', 'Anang', 'Bekasi', '1999-04-05', 'Laki-Laki', 'Ujung Harapan', '089618173609', 'fauzan1892@codekop.com', '2019-11-20', 'user_1567327491.png'),
+(2, 'AG002', 'fauzan', '202cb962ac59075b964b07152d234b70', 'Anggota', 'Fauzan', 'Bekasi', '1998-11-18', 'Laki-Laki', 'Bekasi Barat', '08123123185', 'fauzanfalah21@gmail.com', '2019-11-21', 'user_1589911243.png');
 
 -- --------------------------------------------------------
 
