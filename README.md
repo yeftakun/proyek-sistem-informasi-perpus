@@ -29,12 +29,12 @@ Username : gabriel | Password : 123
 ## Cara Setup
 
 1. Pastikan sudah mengistall xampp | [Download XAMPP](https://www.apachefriends.org/download.html)
-2. Hidupkan `Apache` dan `MySQL` pada xampp
+2. Hidupkan **Apache** dan **MySQL** pada xampp
 3. Clone repositori pada `\xampp\htdocs`
 ```
 git clone https://github.com/yeftakun/proyek-sistem-informasi-perpus
 ```
-4. Buka di browser: `localhost/proyek-sistem-informasi-perpus`, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port `Apache` sudah diganti dan gunakan `localhost:<port>/proyek-sistem-informasi-perpus`
+4. Buka di browser: `localhost/proyek-sistem-informasi-perpus`, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port **Apache** sudah diganti dan gunakan `localhost:<port>/proyek-sistem-informasi-perpus`
 
 5. Tampilan akan menunjukan error database tidak ditemukan:
 - Pada phpMyAdmin buat database baru dengan nama `projek_perpus`
