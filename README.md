@@ -47,3 +47,15 @@ git clone https://github.com/yeftakun/proyek-sistem-informasi-perpus
 ##  Framework
 * Codeigniter 3.1.11
 * Template Admin LTE  Versi 2.4
+
+## Preview
+
+![Login](/assets_other/image0.png)
+![Dashboard](/assets_other/image-1.png)
+<!-- ![Data User](/assets_other/image-2.png) -->
+![Data Buku](/assets_other/image-3.png)
+![Kategori](/assets_other/image-4.png)
+![Rak](/assets_other/image-5.png)
+![Peminjaman](/assets_other/image-7.png)
+![Pengembalian](/assets_other/image-8.png)
+![Denda](/assets_other/image-6.png)
