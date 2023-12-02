@@ -28,24 +28,18 @@ Username : gabriel | Password : 123
 
 ## Cara Setup
 
-Pastikan sudah mengistall xampp | [Download XAMPP](https://www.apachefriends.org/download.html)
-
-Hidupkan `Apache` dan `MySQL` pada xampp
-
-
-
-Clone repositori pada `\xampp\htdocs`
+1. Pastikan sudah mengistall xampp | [Download XAMPP](https://www.apachefriends.org/download.html)
+2. Hidupkan `Apache` dan `MySQL` pada xampp
+3. Clone repositori pada `\xampp\htdocs`
 ```
 git clone https://github.com/yeftakun/proyek-sistem-informasi-perpus
 ```
-Buka di browser: `localhost/proyek-sistem-informasi-perpus`, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port `Apache` sudah diganti dan gunakan `localhost:<port>/proyek-sistem-informasi-perpus`
+4. Buka di browser: `localhost/proyek-sistem-informasi-perpus`, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port `Apache` sudah diganti dan gunakan `localhost:<port>/proyek-sistem-informasi-perpus`
 
-Tampilan akan menunjukan error database tidak ditemukan:
-1. Pada phpMyAdmin buat database baru dengan nama `projek_perpus`
-2. Import > file berada di `\proyek-sistem-informasi-perpus\db sql\projek_perpus.sql` > Go/Import
-
-Kembali ke `localhost/proyek-sistem-informasi-perpus` > refresh
-
+5. Tampilan akan menunjukan error database tidak ditemukan:
+- Pada phpMyAdmin buat database baru dengan nama `projek_perpus`
+- Import > file berada di `\proyek-sistem-informasi-perpus\db sql\projek_perpus.sql` > Go/Import
+6. Kembali ke `localhost/proyek-sistem-informasi-perpus` > refresh
 <h2>DUAR... Done</h2>
 
 ![bocchi kager](/assets_other/image.png)
