@@ -43,7 +43,7 @@
     </style>
   </head>
 <body class="hold-transition login-page" style="overflow-y: hidden;background:url(
-	'<?php echo base_url('assets_style/image/Buku-2.jpg');?>')no-repeat;background-size:100%;">
+	'<?php echo base_url('assets_style/image/library.png');?>')no-repeat;background-size:100%;">
 <div class="login-box">
 	<br/>
   <div class="login-logo">
@@ -84,10 +84,10 @@
   <br/>
   <footer>
     <div class="login-box-body text-center bg-blue">
-       <a style="color: yellow;"> Copyright &copy; Sistem Perpustakaan Codekop - <?php echo date("Y");?>
+       <a style="color: yellow;"> Tugas Proyek Sistem Informasi - Kelompok 6</a>
     </div>
   </footer>
-</div>
+</div>  
 <!-- /.login-box -->
 <!-- Response Ajax -->
 <div id="tampilkan"></div>

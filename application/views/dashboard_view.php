@@ -23,7 +23,7 @@
                     <div class="inner">
                       <h3><?= $count_pengguna;?></h3>
 
-                      <p>Anggota</p>
+                      <p>Anggota Perpustakaan</p>
                     </div>
                     <div class="icon">
                       <i class="fa fa-edit"></i>
@@ -38,7 +38,7 @@
                     <div class="inner">
                       <h3><?= $count_buku;?></h3>
 
-                      <p>Jenis Buku</p>
+                      <p>Daftar Buku</p>
                     </div>
                     <div class="icon">
                       <i class="fa fa-book"></i>
