@@ -91,7 +91,7 @@ class User extends CI_Controller {
 			$this->db->insert('tbl_login',$data);
 			
             $this->session->set_flashdata('pesan','<div id="notifikasi"><div class="alert alert-success">
-            <p> Daftar User telah berhasil !</p>
+            <p> Berhasil mendaftarkan user !</p>
             </div></div>');
 			redirect(base_url('user'));
 		}    
