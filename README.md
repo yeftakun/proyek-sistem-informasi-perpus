@@ -1,36 +1,55 @@
-## Deskripsi Aplikasi
-Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
-## DONASI : <a href="https://saweria.co/fauzan1892">https://saweria.co/fauzan1892</a>
-### Source Blog :  <a href="https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-codeigniter-3-61.html" target="_blank">
+## TUGAS SISTEM INFORMASI - KELOMPOK 6 (H)
+
+Source Blog :  <a href="https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-codeigniter-3-61.html" target="_blank">
 https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-codeigniter-3-61.html</a>
 
-### Beli versi terbaru nya di link berikut :  <a href="https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html" target="_blank">https://www.codekop.com/products/source-code-aplikasi-sistem-informasi-perpustakaan-berbasis-website-5.html</a>
+## Penggunaan Login Akses
 
-### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)
+Petugas : 
+- Mengelola Data Pengguna Mengelola Data Buku
+- Mengelola Data Kategori Buku
+- Mengelola Data Rak Buki
+- Transaksi Proses Peminjaman dan Pengembalian Buku
+- Mengelola data denda
+
+Anggota :
+- Melihat data buku yang di pinjam beserta denda
+- Cari Buku
+- Edit Data Pengguna
+- Cetak Kartu Anggota
+
+<b>Petugas Perpus : </b>
+<br/>
+Username : yefta | Password : 123
+
+<b>Anggota Perpus :</b>
+<br/>
+Username : gabriel | Password : 123
+
+## Cara Setup
+
+Pastikan sudah mengistall xampp | [Download XAMPP](https://www.apachefriends.org/download.html)
+
+Hidupkan `Apache` dan `MySQL` pada xampp
+
+
+
+Clone repositori pada `\xampp\htdocs`
+```
+git clone https://github.com/yeftakun/proyek-sistem-informasi-perpus
+```
+Buka di browser: `localhost/proyek-sistem-informasi-perpus`, ini menggunakan port default (80). Jika tidak bisa, kemungkinan port `Apache` sudah diganti dan gunakan `localhost:<port>/proyek-sistem-informasi-perpus`
+
+Tampilan akan menunjukan error database tidak ditemukan:
+1. Pada phpMyAdmin buat database baru dengan nama `projek_perpus`
+2. Import > file berada di `\proyek-sistem-informasi-perpus\db sql\projek_perpus.sql` > Go/Import
+
+Kembali ke `localhost/proyek-sistem-informasi-perpus` > refresh
+
+<h2>DUAR... Done</h2>
+
+![bocchi kager](/assets_other/image.png)
 
 ##  Framework
 * Codeigniter 3.1.11
 * Template Admin LTE  Versi 2.4
-
-## Penggunaan Login Akses
-
-<b>Petugas Perpus : </b>
-<br/>
-Username : anang
-<br/>
-Password : 123
-
-<b>Anggota Perpus :</b>
-<br/>
-Username : fauzan
-<br/>
-Password : 123
-
-** Jika ada issues atau revisi atau menambahkan fitur silahkan pull request di repository ini
-
-## Contributors
-<a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
-
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
-
-Gunakan Aplikasi dengan bijak, dan selamat belajar
