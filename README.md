@@ -42,7 +42,7 @@ git clone https://github.com/yeftakun/proyek-sistem-informasi-perpus
 6. Kembali ke `localhost/proyek-sistem-informasi-perpus` > refresh
 <h2>DUAR... Done</h2>
 
-![bocchi kager](/assets_other/image.png)
+![bocchi kaget](/assets_other/image.png)
 
 ##  Framework
 * Codeigniter 3.1.11
