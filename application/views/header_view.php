@@ -60,7 +60,7 @@
     <!-- Logo -->
     <a href="<?php echo base_url('index.php/dashboard');?>" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>P</b>P</span>
+      <span class="logo-mini">P P</span>
       <!-- logo for regular state and mobile devices -->
       <span class="logo-lg">Proyek Perpus</span>
     </a>
