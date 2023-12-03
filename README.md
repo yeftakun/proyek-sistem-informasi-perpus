@@ -8,7 +8,7 @@ https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-co
 Petugas : 
 - Mengelola Data Pengguna Mengelola Data Buku
 - Mengelola Data Kategori Buku
-- Mengelola Data Rak Buki
+- Mengelola Data Rak Buku
 - Transaksi Proses Peminjaman dan Pengembalian Buku
 - Mengelola data denda
 
