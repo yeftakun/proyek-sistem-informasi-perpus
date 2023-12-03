@@ -38,7 +38,7 @@ git clone https://github.com/yeftakun/proyek-sistem-informasi-perpus
 
 5. Tampilan akan menunjukan error database tidak ditemukan:
 - Pada phpMyAdmin buat database baru dengan nama `projek_perpus`
-- Import > file berada di `\proyek-sistem-informasi-perpus\db sql\projek_perpus.sql` > Go/Import
+- Import > file dengan update terbaru berada di `\proyek-sistem-informasi-perpus\db sql\update1\projek_perpus.sql` | Gunakan nomor update terbesar
 6. Kembali ke `localhost/proyek-sistem-informasi-perpus` > refresh
 <h2>DUAR... Done</h2>
 
