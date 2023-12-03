@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 <?php defined('BASEPATH') OR exit('No direct script access allowed');?>
 <!-- Left side column. contains the logo and sidebar -->
   <aside class="main-sidebar">
@@ -145,6 +149,13 @@
 					</a>
 				</li>
 			<?php }?>
+            <li class="header">KELOMPOK 6</li>
+            <li>
+                <a href="#" onclick="showPopup()">
+                    <i class="fa fa-info-circle"></i> <span>Kelompok 6</span>
+                </a>
+            </li>
+
         </ul>
         <div class="clearfix"></div>
         <br/>
@@ -152,3 +163,74 @@
     </section>
     <!-- /.sidebar -->
   </aside>
+
+  <script>
+    function showPopup() {
+        $('#myModal').modal('show');
+    }
+</script>
+
+<!-- Tambahkan modal di bagian body -->
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Anggota Kelompok 6</h4>
+            </div>
+            <div class="modal-body">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Nama</th>
+                            <th>NIM</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>YEFTA YOSIA ASYEL</td>
+                            <td>220211060372</td>
+                        </tr>
+                        <tr>
+                            <td>GABRIEL CHRISTOVEL SAMUEL PANGEMANAN</td>
+                            <td>220211060254</td>
+                        </tr>
+                        <tr>
+                            <td>RIVAIVEL BINTANG ANUGRAH KAWENGIAN</td>
+                            <td>220211060256</td>
+                        </tr>
+                        <tr>
+                            <td>FANRI RULINDO MOSES</td>
+                            <td>220211060214</td>
+                        </tr>
+                        <tr>
+                            <td>RAFAEL RENALDY RAWUNG</td>
+                            <td>220211060299</td>
+                        </tr>
+                        <tr>
+                            <td>HENOCH AQUILA DALOPE</td>
+                            <td>220211060159</td>
+                        </tr>
+                        <tr>
+                            <td>ARIELL ZECHARIAH VINCENT DIMES</td>
+                            <td>220211060208</td>
+                        </tr>
+                        <tr>
+                            <td>DAVA OKTAVITO JOSUA L. ULUS</td>
+                            <td>220211060323</td>
+                        </tr>
+                        <tr>
+                            <td>JUNICSHIRO ALVIN LEASIWAL</td>
+                            <td>220211060089</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Tutup</button>
+            </div>
+        </div>
+    </div>
+</div>
+
