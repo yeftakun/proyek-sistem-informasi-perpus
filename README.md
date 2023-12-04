@@ -44,6 +44,8 @@ git clone https://github.com/yeftakun/proyek-sistem-informasi-perpus
 
 ![bocchi kaget](/assets_other/image.png)
 
+7. Jika masih tidak bisa, mungkin konfigurasi database sudah tidak default dan bisa diatur pada file `\proyek-sistem-informasi-perpus\application\config\database.php`
+
 ##  Framework
 * Codeigniter 3.1.11
 * Template Admin LTE  Versi 2.4
