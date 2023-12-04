@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 14,
+    "editor.minimap.showSlider": "mouseover",
+    "editor.minimap.autohide": false,
+    "editor.minimap.size": "fill",
+    "editor.minimap.enabled": true,
+    "editor.minimap.side": "right",
+    "doki.statusbar.name": "Yefta Asyel",
+}
