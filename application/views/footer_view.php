@@ -1,10 +1,9 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');?>
 <div class="clearfix"></div>
 <footer class="main-footer">
-    <div id="mycredit"><strong> Copyright &copy; <?php echo date('Y');?> Sistem Informasi Perpustakaan Codekop 
-    </strong> All rights | Page rendered in <strong>{elapsed_time}</strong> seconds 
+    <div id="mycredit"><strong>Kelompok 6 Sistem Informasi - H |
+    </strong> Page rendered in <strong>{elapsed_time}</strong> seconds 
     <div class="pull-right">
-      <b>Modified</b> by <b>Kelompok 6 Sistem Informasi - H</b>
      <!-- <span id="made_with"></span> -->
     </div></div>
 </footer>
