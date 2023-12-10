@@ -197,32 +197,16 @@
                             <td>220211060254</td>
                         </tr>
                         <tr>
-                            <td>RIVAIVEL BINTANG ANUGRAH KAWENGIAN</td>
-                            <td>220211060256</td>
-                        </tr>
-                        <tr>
                             <td>FANRI RULINDO MOSES</td>
                             <td>220211060214</td>
                         </tr>
                         <tr>
-                            <td>RAFAEL RENALDY RAWUNG</td>
-                            <td>220211060299</td>
+                            <td>MIRACLE CREILY KOROMPIS</td>
+                            <td>220211060252</td>
                         </tr>
                         <tr>
-                            <td>HENOCH AQUILA DALOPE</td>
-                            <td>220211060159</td>
-                        </tr>
-                        <tr>
-                            <td>ARIELL ZECHARIAH VINCENT DIMES</td>
-                            <td>220211060208</td>
-                        </tr>
-                        <tr>
-                            <td>DAVA OKTAVITO JOSUA L. ULUS</td>
-                            <td>220211060323</td>
-                        </tr>
-                        <tr>
-                            <td>JUNICSHIRO ALVIN LEASIWAL</td>
-                            <td>220211060089</td>
+                            <td>HEINDRIK GABRIEL RADICAL MAIT</td>
+                            <td>220211060251</td>
                         </tr>
                     </tbody>
                 </table>
